@@ -1,5 +1,4 @@
-# misc
-Usefull, must read links
+# Usefull, must read links
 
 
 # http://eloquentjavascript.net/
